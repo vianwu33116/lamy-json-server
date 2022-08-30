@@ -1,0 +1,162 @@
+{
+  "dishes": [
+    {
+      "id": 1,
+      "name": "豚骨拉麵",
+      "image": "images/dish1.jpg",
+      "price": "200",
+      "kind": "noodle"
+    },
+    {
+      "id": 2,
+      "name": "味噌拉麵",
+      "image": "images/dish2.jpg",
+      "price": "220",
+      "kind": "noodle"
+    },
+    {
+      "id": 3,
+      "name": "醬油拉麵",
+      "image": "images/dish3.jpg",
+      "price": "230",
+      "kind": "noodle"
+    },
+    {
+      "id": 4,
+      "name": "原味拉麵",
+      "image": "images/dish4.jpg",
+      "price": "180",
+      "kind": "noodle"
+    },
+    {
+      "id": 5,
+      "name": "蒜香拉麵",
+      "image": "images/dish5.jpg",
+      "price": "180",
+      "kind": "noodle"
+    },
+    {
+      "id": 6,
+      "name": "番茄拉麵",
+      "image": "images/dish6.jpg",
+      "price": "220",
+      "kind": "noodle"
+    },
+    {
+      "id": 7,
+      "name": "辣味拉麵",
+      "image": "images/dish7.jpg",
+      "price": "220",
+      "kind": "noodle"
+    },
+    {
+      "id": 8,
+      "name": "泡菜拉麵",
+      "image": "images/dish8.jpg",
+      "price": "200",
+      "kind": "noodle"
+    },
+    {
+      "id": 9,
+      "name": "蔬食拉麵",
+      "image": "images/dish9.jpg",
+      "price": "220",
+      "kind": "noodle"
+    },
+    {
+      "id": 10,
+      "name": "醃蘿蔔",
+      "image": "images/dish10.jpg",
+      "price": "30",
+      "kind": "appetizer"
+    },
+    {
+      "id": 11,
+      "name": "涼拌秋葵",
+      "image": "images/dish11.jpg",
+      "price": "50",
+      "kind": "appetizer"
+    },
+    {
+      "id": 12,
+      "name": "涼拌小黃瓜",
+      "image": "images/dish12.jpg",
+      "price": "30",
+      "kind": "appetizer"
+    },
+    {
+      "id": 13,
+      "name": "炸豆腐",
+      "image": "images/dish13.jpg",
+      "price": "60",
+      "kind": "appetizer"
+    },
+    {
+      "id": 14,
+      "name": "唐揚雞",
+      "image": "images/dish14.jpg",
+      "price": "80",
+      "kind": "appetizer"
+    },
+    {
+      "id": 15,
+      "name": "糖心蛋",
+      "image": "images/dish15.jpg",
+      "price": "20",
+      "kind": "appetizer"
+    },
+    {
+      "id": 16,
+      "name": "可樂",
+      "image": "images/dish16.jpg",
+      "price": "20",
+      "kind": "drink"
+    },
+    {
+      "id": 17,
+      "name": "柳橙汁",
+      "image": "images/dish17.jpg",
+      "price": "20",
+      "kind": "drink"
+    },
+    {
+      "id": 18,
+      "name": "抹茶",
+      "image": "images/dish18.jpg",
+      "price": "35",
+      "kind": "drink"
+    },
+    {
+      "id": 19,
+      "name": "紅茶",
+      "image": "images/dish19.jpg",
+      "price": "20",
+      "kind": "drink"
+    },
+    {
+      "id": 20,
+      "name": "啤酒",
+      "image": "images/dish20.jpg",
+      "price": "50",
+      "kind": "drink"
+    }
+  ],
+  "carts": [
+    {
+      "productId": 3,
+      "name": "醬油拉麵",
+      "image": "images/dish3.jpg",
+      "price": "230",
+      "mount": "2",
+      "id": 1
+    },
+    {
+      "productId": 2,
+      "name": "味噌拉麵",
+      "image": "images/dish2.jpg",
+      "price": "220",
+      "mount": "3",
+      "id": 2
+    }
+  ]
+}
